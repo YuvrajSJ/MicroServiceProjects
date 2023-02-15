@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Api Gateway/Api-Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/user service/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Config Server/Config-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Hotel Service/Hotel-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Rating Service/Rating-Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka Server Registry/Eureka-Server-Registry/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
